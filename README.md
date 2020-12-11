@@ -1,11 +1,11 @@
 # AppLabEnd
 cách cài đặt bootstrap cho vue:
-  # Yarn
+  Yarn
   $ yarn add bootstrap-vue bootstrap
 
-  # NPM
+  NPM
   $ npm install bootstrap-vue bootstrap --save
-Sau đó file main.js
+#Sau đó file main.js
   import Vue from 'vue';
   import BootstrapVue from 'bootstrap-vue/dist/bootstrap-vue.esm';
   import App from 'App.vue';
